@@ -1,0 +1,3 @@
+chmod command is used to change access permission for files 
+ where (r) means read (w) means write (x) means execute 
+ (u) for owner, (g) for group, (o) for others
