@@ -1,0 +1,1 @@
+the shebang, when used in scripts tells the OS to use the given  bash as command interpreter, it starts with #!

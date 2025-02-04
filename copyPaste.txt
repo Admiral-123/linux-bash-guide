@@ -1,0 +1,1 @@
+copy ctrl+shift+c and paste is ctrl+shift+v

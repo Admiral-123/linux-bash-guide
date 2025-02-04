@@ -1,0 +1,1 @@
+It stands for “concatenate” and is primarily used to read, display, and concatenate text files
