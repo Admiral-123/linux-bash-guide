@@ -1,0 +1,2 @@
+ ls -l option display the contents of the current dir in a long listing format,
+ one per line, it also shows the owners groups and others access on the file

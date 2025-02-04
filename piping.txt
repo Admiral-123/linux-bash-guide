@@ -1,0 +1,1 @@
+piping command '|' takes output of one command and put it in the input of another command (one on the left side of pipe '|')

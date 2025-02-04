@@ -1,0 +1,12 @@
+#!/bin/bash
+
+case ${1,,}
+     kk | admin)
+		echo "hello boss"
+		;;
+  
+		help)
+		    echo "enter your user name"
+		    ;;
+		*)
+		

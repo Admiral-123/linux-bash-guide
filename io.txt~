@@ -1,0 +1,16 @@
+ > overrides the file but >> apends the file 
+ < lets us input a file into the command eg: wc -w < txtFile.txt
+	the above code gives us the amount of word in text file
+
+<< lets us enter multiple lines for eg:
+
+	cat << EOF > fileName.txt
+
+	in the above code we can write multiple lines   
+	 and end with EOF to save the entire file
+
+<<< lets us enter a String, for eg:
+
+	 wc -w << "hello how r you"
+	
+	the above code gives us the num of words in the String

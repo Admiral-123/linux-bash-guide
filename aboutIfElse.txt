@@ -1,0 +1,12 @@
+if [  = some_value ]; then echo "statement"
+above 
+cat << EOF >> abouIfElse.txt 
+if [  = some_value ]; then echo "statement"
+above 
+ is for user input
+
+in simmilar way we use elif and else
+
+and in the end we close this if else block with fi
+
+then we can run the file ./file.sh my_input

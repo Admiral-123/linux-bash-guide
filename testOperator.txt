@@ -1,0 +1,7 @@
+echo 0  if this command gives 0 means everythin is fine 
+if it gives 1 means there is some err
+[ x = x ] or [ 2 = 2 ] are conditional expression which compares two value
+after doing these conditional expression we can run echo 0 to check
+if the conditions are correct
+
+can use -eq instead of = for numerical conditions eg: [ 5 -eq 5 ]
