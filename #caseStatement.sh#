@@ -5,7 +5,7 @@ case ${1,,}
 		echo "hello boss"
 		;;
   
-		help)
+		h
 		    echo "enter your user name"
 		    ;;
 		*)

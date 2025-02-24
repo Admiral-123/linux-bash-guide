@@ -1,0 +1,7 @@
+MY_LIST=(hlo how wow now)
+
+echo hlo hi wow now 
+the above command would print entire arr
+
+echo hi
+the above command would print the element of arr
