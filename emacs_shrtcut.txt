@@ -1,0 +1,4 @@
+ctrl + space (select)
+alt + w (copy)
+ctrl + y (paste)
+ctrl + _ (undo (do ctrl shift minus))
